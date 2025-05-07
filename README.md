@@ -1,1 +1,1 @@
-# ExifTool
+# ExifTool 13.29
